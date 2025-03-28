@@ -13,3 +13,10 @@ Git/GitHub에 대해 공부하고 실습하는 스터디입니다.
 - Commit을 되돌리는 방법, 기타 Git의 기능들
 
 - GitFlow, 기타 GitHub에서 사용 가능한 기능들
+
+- Terminal을 이용한 branch 사용법
+
+- Vscode 내에서 branch를 생성하는 법
+
+- GitFlow, 기타 GitHub에서 사용 가능한 기능들
+
